@@ -1,0 +1,25 @@
+breakpoints:
+============
+
+xs          upto 575px
+sm     576px - 767px
+md     768 px - 991px
+lg     992px - 1199px
+xl     1200-1399
+xxl    1400 - 
+
+
+templates
+=========
+home - products display
+details - product details
+register - 
+login -
+aboutus -
+contactus -
+
+margin & padding
+======
+mt, mr, mb, ml 
+m
+m-1, m-2, m-3, m-4, m-5
